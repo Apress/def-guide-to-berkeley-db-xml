@@ -1,0 +1,13 @@
+<Synset fileVersion="1.0" pos="n"> 
+  <Id>14861</Id> 
+  <WnOffset version="2.1" pos="n">02772480</WnOffset> 
+  <LexFileNum>06</LexFileNum> 
+  <SsType>n</SsType> 
+  <Word lexId="0">baseball</Word> 
+  <Pointers> 
+    <Hypernym>14746</Hypernym> 
+    <Hypernym>14866</Hypernym> 
+  </Pointers> 
+  <Gloss>a ball used in playing baseball</Gloss> 
+</Synset> 
+

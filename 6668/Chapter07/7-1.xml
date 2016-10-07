@@ -1,0 +1,23 @@
+<person id="6641"> 
+  <name> 
+    <last>Brown</last> 
+    <first>Jim</first> 
+    <middle>Austin</middle> 
+    <nick>Big</nick> 
+  </name> 
+  <age>24</age> 
+  <phone> 
+  <office>612-555-0091</office> 
+  <home/> 
+  </phone> 
+  <street> Attn: Jim Brown 
+           Pleax Systems, Inc. 
+           18520 25th Ave 
+  </street> 
+  <city>Minneapolis</city> 
+  <state>MN</state> 
+  <sex>male</sex> 
+  <hobby>boats</hobby> 
+  <hobby>carpentry</hobby> 
+</person> 
+

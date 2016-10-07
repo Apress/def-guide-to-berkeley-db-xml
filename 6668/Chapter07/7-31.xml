@@ -1,0 +1,14 @@
+<kml xmlns="http://earth.google.com/kml/2.0"> 
+  <Placemark id="property_1"> 
+  <name>Four Seasons Cairo at Nile Plaza</name> 
+  <description><![CDATA[<p>1089 Corniche El Nile<br/>Cairo, Egypt </p> 
+  <p><strong>Score: <span style="color:red;">86.09</span></strong></p> 
+  <p>30-story hotel near Garden City on the east bank of the river. </p> 
+  &#169; 2006 <em>Travel + Leisure</em></p>]]></description> 
+  <Point> 
+  <altitudeMode>relativeToGround</altitudeMode> 
+  <coordinates>31.229338,30.03595,0</coordinates> 
+  </Point> 
+  </Placemark> 
+</kml> 
+

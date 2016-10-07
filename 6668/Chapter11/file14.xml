@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF8"?>
+<Synset fileVersion="1.0" pos="n">
+  <Id>114</Id>
+  <WnOffset version="2.1" pos="n">00047668</WnOffset>
+  <LexFileNum>04</LexFileNum>
+  <SsType>n</SsType>
+  <Word lexId="1">incursion</Word>
+  <Pointers>
+    <Hypernym>113</Hypernym>
+  </Pointers>
+  <Gloss>the act of entering some territory or domain (often in large numbers); "the incursion of television into the American living room"  </Gloss>
+</Synset>

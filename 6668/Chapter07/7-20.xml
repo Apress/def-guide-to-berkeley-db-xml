@@ -1,0 +1,14 @@
+<Synset fileVersion="1.0" pos="n"> 
+  <Id>41886</Id> 
+  <WnOffset version="2.1" pos="n">07647890</WnOffset> 
+  <LexFileNum>13</LexFileNum> 
+  <SsType>n</SsType> 
+  <Word lexId="0">banana</Word> 
+  <Pointers> 
+    <Hypernym>41581</Hypernym> 
+    <Meronym type="component">65855</Meronym> 
+    <Meronym type="component">65852</Meronym> 
+  </Pointers> 
+  <Gloss>elongated crescent-shaped yellow fruit with soft sweet flesh</Gloss> 
+</Synset> 
+
